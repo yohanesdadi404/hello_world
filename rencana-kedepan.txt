@@ -2,6 +2,5 @@ Rencana
 - membuat hello world
   * menggunakan github
   * menggunakan vscode
-  * menggunakan laptop
   * menggunakan react
   * menggunakan PHP
