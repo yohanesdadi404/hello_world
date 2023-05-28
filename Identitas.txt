@@ -1,4 +1,5 @@
 Nama : Yohanes Dadi
+Tempat/Tanggal lahir : Tasikmalaya, 23 Maret 2023
 NIM : 2003010044
 Kelas : TI-B
 Prodi : Teknik Informatika
